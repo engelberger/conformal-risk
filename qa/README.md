@@ -57,7 +57,7 @@ python -m dpr.data.download_data \
 
 Symlink the DPR config dir.
 ```
-ln -s "${DPR_DIR}/conf" "conf"
+ln -s "${DPR_DIR}/DPR/conf" "conf"
 ```
 
 ## Prepare data
